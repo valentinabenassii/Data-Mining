@@ -1,0 +1,1 @@
+This project presents a robust statistical analysis on a real-world credit risk dataset, with the goal of predicting loan amounts and loan default probability based on borrower and loan characteristics.
