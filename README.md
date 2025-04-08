@@ -38,7 +38,7 @@ This project presents a robust statistical analysis on a real-world credit risk 
   - False positive rate = 3.6%
   - False negative rate = 9.7%
 
-## 🛠Tools & Libraries
+## Tools & Libraries
 - **R**, **RStudio**
 - `car`, `mice`, `MASS`, `ggplot2`, `boot`, `factorMerger`, and base R
 - Diagnostic plotting and visualization
